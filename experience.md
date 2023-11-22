@@ -6,7 +6,7 @@ nav_order: 2
 
 ## 2024: `Saronic`
 
-I currently Work at Saronic
+I currently work at Saronic, building an autonomy system that will be deployed across all our platforms.
 
 ## 2023: `XQ-58`
 
