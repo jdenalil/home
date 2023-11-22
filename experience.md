@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Experience
+nav_order: 2
 ---
 
 ## 2024: `Saronic`
