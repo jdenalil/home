@@ -27,4 +27,4 @@ After Heron Systems was aquired by Shield AI, we moved to mature our autonomy so
 
 I started my career at Heron Systems working on the DARPA Alpha Dogfight Trials. Inspired by OpenAI and Deepmind's recent successes in Starcraft and Dota 2, we implemented a Reinforcement Learning + League Play approach. This proved to be very successful - we won every stage of the competition, including beating a human pilot 5-0 in VR. 
 
-Shortly after the trials, Heron Systems was aquired by Shield AI, forming Shield's "Integrated AI" division.
+Shortly after the trials, Heron Systems was aquired by Shield AI.
