@@ -3,10 +3,10 @@ layout: default
 title: Experience
 nav_order: 2
 ---
-
 ## `Saronic` 
 
-I currently work at Saronic, building an autonomy system that will be deployed across all our autonomous surface vessels. [Join us](https://jobs.lever.co/saronic)
+I currently work at Saronic, building an autonomy system that will be deployed across all our autonomous surface vessels. 
+[Join us](https://jobs.lever.co/saronic)
 
 ## `Shield AI`
 
