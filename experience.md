@@ -3,13 +3,13 @@ layout: default
 title: Experience
 nav_order: 2
 ---
-## `Saronic 2023-` 
+## `Saronic: 2023-` 
 
 I currently work at Saronic, building a core autonomy stack that can be deployed across all our autonomous surface vessels. 
  
 [Join us](https://jobs.lever.co/saronic)
 
-## `Shield AI - 2021-2023` 
+## `Shield AI: 2021-2023` 
 At Shield, I worked on aerial autonomy software that was deployed to two autonomy test platforms.
 
 ### `XQ-58`
@@ -23,7 +23,7 @@ I worked to mature our autonomy software and test on real jets. Through contract
 1. Autonomous beyond visual range combat using IRST sensors
 2. Suppression of enemy air defense
 
-## `Heron Systems 2019-2021`
+## `Heron Systems: 2019-2021`
 
 ### `DARPA Alpha Dogfight Trials`
 
