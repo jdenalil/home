@@ -6,6 +6,7 @@ nav_order: 2
 ## `Saronic 2023-` 
 
 I currently work at Saronic, building a core autonomy stack that can be deployed across all our autonomous surface vessels. 
+ 
 [Join us](https://jobs.lever.co/saronic)
 
 ## `Shield AI - 2021-2023` 
