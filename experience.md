@@ -12,10 +12,11 @@ At Shield, I worked on autonomy software for Collaborative Combat Aircraft.
 
 ### [*X-62 VISTA*](https://en.wikipedia.org/wiki/General_Dynamics_X-62_VISTA)
 
-Worked on contracts with DARPA and AFRL to demonstrate autonomous combat missions on a modified F-16 platform. I mainly developing autonomy and tactics for:
+Worked on contracts with DARPA and AFRL to demonstrate autonomous combat missions on a modified F-16 platform. I mainly developed autonomy and tactics for:
 
-1. Beyond visual range combat with IRST sensors
-2. Suppression of enemy air defense
+1. Within visual range combat
+2. Beyond visual range combat with IRST sensors
+3. Suppression of enemy air defense
 
 ### [*XQ-58*](https://en.wikipedia.org/wiki/Kratos_XQ-58_Valkyrie)
 
