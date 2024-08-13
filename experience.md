@@ -5,9 +5,7 @@ nav_order: 2
 ---
 ## *Saronic: 2023-* 
 
-I currently work at Saronic, building a core autonomy stack that is deployed across all our autonomous surface vessels.
- 
-[Join us](https://jobs.lever.co/saronic)
+I currently work at Saronic, building a core autonomy stack that is deployed across all our autonomous surface vessels. 
 
 ## *Shield AI: 2021-2023*
 At Shield, I worked on autonomy software for Collaborative Combat Aircraft.
